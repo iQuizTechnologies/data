@@ -1,0 +1,248 @@
+ANZSIC06 code,Industry Group,Period,Value,Status,Units,Magnitude,Series_title_1
+A,"Agriculture, Forestry and Fishing",2019.05,96007,P,Number ,0,Actual 
+A,"Agriculture, Forestry and Fishing",2019.06,92219,P,Number ,0,Actual 
+A,"Agriculture, Forestry and Fishing",2019.07,92710,P,Number ,0,Actual 
+A,"Agriculture, Forestry and Fishing",2019.08,93407,P,Number ,0,Actual 
+A,"Agriculture, Forestry and Fishing",2019.09,94106,P,Number ,0,Actual 
+A,"Agriculture, Forestry and Fishing",2019.1,97250,P,Number ,0,Actual 
+A,"Agriculture, Forestry and Fishing",2019.11,105864,P,Number ,0,Actual 
+A,"Agriculture, Forestry and Fishing",2019.12,112040,P,Number ,0,Actual 
+A,"Agriculture, Forestry and Fishing",2020.01,108667,P,Number ,0,Actual 
+A,"Agriculture, Forestry and Fishing",2020.02,104147,P,Number ,0,Actual 
+A,"Agriculture, Forestry and Fishing",2020.03,103078,P,Number ,0,Actual 
+A,"Agriculture, Forestry and Fishing",2020.04,97023,P,Number ,0,Actual 
+A,"Agriculture, Forestry and Fishing",2020.05,96021,P,Number ,0,Actual 
+B,Mining ,2019.05,5624,P,Number ,0,Actual 
+B,Mining ,2019.06,5667,P,Number ,0,Actual 
+B,Mining ,2019.07,5790,P,Number ,0,Actual 
+B,Mining ,2019.08,5761,P,Number ,0,Actual 
+B,Mining ,2019.09,5776,P,Number ,0,Actual 
+B,Mining ,2019.1,5625,P,Number ,0,Actual 
+B,Mining ,2019.11,5620,P,Number ,0,Actual 
+B,Mining ,2019.12,5614,P,Number ,0,Actual 
+B,Mining ,2020.01,5695,P,Number ,0,Actual 
+B,Mining ,2020.02,5713,P,Number ,0,Actual 
+B,Mining ,2020.03,5821,P,Number ,0,Actual 
+B,Mining ,2020.04,5795,P,Number ,0,Actual 
+B,Mining ,2020.05,5838,P,Number ,0,Actual 
+C,Manufacturing,2019.05,232878,P,Number ,0,Actual 
+C,Manufacturing,2019.06,227383,P,Number ,0,Actual 
+C,Manufacturing,2019.07,225474,P,Number ,0,Actual 
+C,Manufacturing,2019.08,227200,P,Number ,0,Actual 
+C,Manufacturing,2019.09,226052,P,Number ,0,Actual 
+C,Manufacturing,2019.1,230193,P,Number ,0,Actual 
+C,Manufacturing,2019.11,235073,P,Number ,0,Actual 
+C,Manufacturing,2019.12,238109,P,Number ,0,Actual 
+C,Manufacturing,2020.01,234708,P,Number ,0,Actual 
+C,Manufacturing,2020.02,236531,P,Number ,0,Actual 
+C,Manufacturing,2020.03,235966,P,Number ,0,Actual 
+C,Manufacturing,2020.04,232049,P,Number ,0,Actual 
+C,Manufacturing,2020.05,233811,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2019.05,19016,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2019.06,19053,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2019.07,19217,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2019.08,19296,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2019.09,19423,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2019.1,19492,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2019.11,19659,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2019.12,19760,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2020.01,19785,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2020.02,19807,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2020.03,19744,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2020.04,19639,P,Number ,0,Actual 
+D,"Electricity, Gas, Water and Waste Services",2020.05,19893,P,Number ,0,Actual 
+E,Construction ,2019.05,171566,P,Number ,0,Actual 
+E,Construction ,2019.06,171815,P,Number ,0,Actual 
+E,Construction ,2019.07,171966,P,Number ,0,Actual 
+E,Construction ,2019.08,171748,P,Number ,0,Actual 
+E,Construction ,2019.09,172541,P,Number ,0,Actual 
+E,Construction ,2019.1,173868,P,Number ,0,Actual 
+E,Construction ,2019.11,175956,P,Number ,0,Actual 
+E,Construction ,2019.12,176266,P,Number ,0,Actual 
+E,Construction ,2020.01,172636,P,Number ,0,Actual 
+E,Construction ,2020.02,176279,P,Number ,0,Actual 
+E,Construction ,2020.03,177958,P,Number ,0,Actual 
+E,Construction ,2020.04,176019,P,Number ,0,Actual 
+E,Construction ,2020.05,179290,P,Number ,0,Actual 
+F,Wholesale Trade,2019.05,112355,P,Number ,0,Actual 
+F,Wholesale Trade,2019.06,111690,P,Number ,0,Actual 
+F,Wholesale Trade,2019.07,111124,P,Number ,0,Actual 
+F,Wholesale Trade,2019.08,110744,P,Number ,0,Actual 
+F,Wholesale Trade,2019.09,110190,P,Number ,0,Actual 
+F,Wholesale Trade,2019.1,111962,P,Number ,0,Actual 
+F,Wholesale Trade,2019.11,114064,P,Number ,0,Actual 
+F,Wholesale Trade,2019.12,114675,P,Number ,0,Actual 
+F,Wholesale Trade,2020.01,112848,P,Number ,0,Actual 
+F,Wholesale Trade,2020.02,113421,P,Number ,0,Actual 
+F,Wholesale Trade,2020.03,113764,P,Number ,0,Actual 
+F,Wholesale Trade,2020.04,112163,P,Number ,0,Actual 
+F,Wholesale Trade,2020.05,112301,P,Number ,0,Actual 
+G,Retail Trade,2019.05,204776,P,Number ,0,Actual 
+G,Retail Trade,2019.06,204673,P,Number ,0,Actual 
+G,Retail Trade,2019.07,204796,P,Number ,0,Actual 
+G,Retail Trade,2019.08,204963,P,Number ,0,Actual 
+G,Retail Trade,2019.09,205656,P,Number ,0,Actual 
+G,Retail Trade,2019.1,208170,P,Number ,0,Actual 
+G,Retail Trade,2019.11,212947,P,Number ,0,Actual 
+G,Retail Trade,2019.12,219592,P,Number ,0,Actual 
+G,Retail Trade,2020.01,212380,P,Number ,0,Actual 
+G,Retail Trade,2020.02,209097,P,Number ,0,Actual 
+G,Retail Trade,2020.03,208104,P,Number ,0,Actual 
+G,Retail Trade,2020.04,206768,P,Number ,0,Actual 
+G,Retail Trade,2020.05,208899,P,Number ,0,Actual 
+H,Accommodation and Food Services,2019.05,146901,P,Number ,0,Actual 
+H,Accommodation and Food Services,2019.06,144688,P,Number ,0,Actual 
+H,Accommodation and Food Services,2019.07,144510,P,Number ,0,Actual 
+H,Accommodation and Food Services,2019.08,145570,P,Number ,0,Actual 
+H,Accommodation and Food Services,2019.09,147165,P,Number ,0,Actual 
+H,Accommodation and Food Services,2019.1,148988,P,Number ,0,Actual 
+H,Accommodation and Food Services,2019.11,153210,P,Number ,0,Actual 
+H,Accommodation and Food Services,2019.12,154641,P,Number ,0,Actual 
+H,Accommodation and Food Services,2020.01,149894,P,Number ,0,Actual 
+H,Accommodation and Food Services,2020.02,151670,P,Number ,0,Actual 
+H,Accommodation and Food Services,2020.03,150474,P,Number ,0,Actual 
+H,Accommodation and Food Services,2020.04,144900,P,Number ,0,Actual 
+H,Accommodation and Food Services,2020.05,146428,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2019.05,93421,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2019.06,96036,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2019.07,95614,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2019.08,92442,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2019.09,95911,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2019.1,93824,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2019.11,95223,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2019.12,95558,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2020.01,94021,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2020.02,93895,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2020.03,93540,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2020.04,91033,P,Number ,0,Actual 
+I,"Transport, Postal and Warehousing",2020.05,92569,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2019.05,32985,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2019.06,31368,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2019.07,31232,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2019.08,32614,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2019.09,31490,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2019.1,32515,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2019.11,32243,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2019.12,32076,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2020.01,31812,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2020.02,31987,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2020.03,31873,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2020.04,31025,P,Number ,0,Actual 
+J,Information Media and Telecommunications,2020.05,30744,P,Number ,0,Actual 
+K,Financial and Insurance Services,2019.05,62940,P,Number ,0,Actual 
+K,Financial and Insurance Services,2019.06,62836,P,Number ,0,Actual 
+K,Financial and Insurance Services,2019.07,63008,P,Number ,0,Actual 
+K,Financial and Insurance Services,2019.08,63218,P,Number ,0,Actual 
+K,Financial and Insurance Services,2019.09,63295,P,Number ,0,Actual 
+K,Financial and Insurance Services,2019.1,61343,P,Number ,0,Actual 
+K,Financial and Insurance Services,2019.11,61453,P,Number ,0,Actual 
+K,Financial and Insurance Services,2019.12,61617,P,Number ,0,Actual 
+K,Financial and Insurance Services,2020.01,61470,P,Number ,0,Actual 
+K,Financial and Insurance Services,2020.02,61498,P,Number ,0,Actual 
+K,Financial and Insurance Services,2020.03,62671,P,Number ,0,Actual 
+K,Financial and Insurance Services,2020.04,63376,P,Number ,0,Actual 
+K,Financial and Insurance Services,2020.05,63617,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2019.05,34062,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2019.06,33968,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2019.07,34127,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2019.08,33603,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2019.09,33981,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2019.1,34877,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2019.11,35647,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2019.12,36188,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2020.01,35494,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2020.02,35698,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2020.03,35672,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2020.04,34273,P,Number ,0,Actual 
+L,"Rental, Hiring and Real Estate Services",2020.05,34478,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2019.05,169464,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2019.06,169097,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2019.07,168465,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2019.08,168916,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2019.09,166432,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2019.1,167921,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2019.11,170455,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2019.12,171211,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2020.01,168783,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2020.02,170532,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2020.03,171450,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2020.04,169121,P,Number ,0,Actual 
+M,"Professional, Scientific and Technical Services",2020.05,169047,P,Number ,0,Actual 
+N,Administrative and Support Services,2019.05,111136,P,Number ,0,Actual 
+N,Administrative and Support Services,2019.06,105300,P,Number ,0,Actual 
+N,Administrative and Support Services,2019.07,100245,P,Number ,0,Actual 
+N,Administrative and Support Services,2019.08,100255,P,Number ,0,Actual 
+N,Administrative and Support Services,2019.09,100575,P,Number ,0,Actual 
+N,Administrative and Support Services,2019.1,100381,P,Number ,0,Actual 
+N,Administrative and Support Services,2019.11,103510,P,Number ,0,Actual 
+N,Administrative and Support Services,2019.12,103044,P,Number ,0,Actual 
+N,Administrative and Support Services,2020.01,98014,P,Number ,0,Actual 
+N,Administrative and Support Services,2020.02,102144,P,Number ,0,Actual 
+N,Administrative and Support Services,2020.03,107300,P,Number ,0,Actual 
+N,Administrative and Support Services,2020.04,107634,P,Number ,0,Actual 
+N,Administrative and Support Services,2020.05,111628,P,Number ,0,Actual 
+O,Public Administration and Safety,2019.05,133655,P,Number ,0,Actual 
+O,Public Administration and Safety,2019.06,135172,P,Number ,0,Actual 
+O,Public Administration and Safety,2019.07,136117,P,Number ,0,Actual 
+O,Public Administration and Safety,2019.08,134942,P,Number ,0,Actual 
+O,Public Administration and Safety,2019.09,137651,P,Number ,0,Actual 
+O,Public Administration and Safety,2019.1,137217,P,Number ,0,Actual 
+O,Public Administration and Safety,2019.11,138621,P,Number ,0,Actual 
+O,Public Administration and Safety,2019.12,139939,P,Number ,0,Actual 
+O,Public Administration and Safety,2020.01,139033,P,Number ,0,Actual 
+O,Public Administration and Safety,2020.02,141238,P,Number ,0,Actual 
+O,Public Administration and Safety,2020.03,140860,P,Number ,0,Actual 
+O,Public Administration and Safety,2020.04,140121,P,Number ,0,Actual 
+O,Public Administration and Safety,2020.05,141246,P,Number ,0,Actual 
+P,Education and Training,2019.05,197811,P,Number ,0,Actual 
+P,Education and Training,2019.06,199098,P,Number ,0,Actual 
+P,Education and Training,2019.07,197483,P,Number ,0,Actual 
+P,Education and Training,2019.08,199676,P,Number ,0,Actual 
+P,Education and Training,2019.09,203063,P,Number ,0,Actual 
+P,Education and Training,2019.1,199519,P,Number ,0,Actual 
+P,Education and Training,2019.11,201389,P,Number ,0,Actual 
+P,Education and Training,2019.12,201978,P,Number ,0,Actual 
+P,Education and Training,2020.01,188320,P,Number ,0,Actual 
+P,Education and Training,2020.02,192264,P,Number ,0,Actual 
+P,Education and Training,2020.03,199564,P,Number ,0,Actual 
+P,Education and Training,2020.04,197608,P,Number ,0,Actual 
+P,Education and Training,2020.05,198406,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2019.05,234321,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2019.06,234482,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2019.07,235259,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2019.08,234704,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2019.09,237575,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2019.1,238729,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2019.11,240725,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2019.12,240770,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2020.01,236795,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2020.02,240095,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2020.03,242220,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2020.04,239044,P,Number ,0,Actual 
+Q,Health Care and Social Assistance,2020.05,241456,P,Number ,0,Actual 
+R,Arts and Recreation Services,2019.05,40709,P,Number ,0,Actual 
+R,Arts and Recreation Services,2019.06,41343,P,Number ,0,Actual 
+R,Arts and Recreation Services,2019.07,41667,P,Number ,0,Actual 
+R,Arts and Recreation Services,2019.08,41709,P,Number ,0,Actual 
+R,Arts and Recreation Services,2019.09,41736,P,Number ,0,Actual 
+R,Arts and Recreation Services,2019.1,42295,P,Number ,0,Actual 
+R,Arts and Recreation Services,2019.11,43048,P,Number ,0,Actual 
+R,Arts and Recreation Services,2019.12,43763,P,Number ,0,Actual 
+R,Arts and Recreation Services,2020.01,41787,P,Number ,0,Actual 
+R,Arts and Recreation Services,2020.02,42385,P,Number ,0,Actual 
+R,Arts and Recreation Services,2020.03,41774,P,Number ,0,Actual 
+R,Arts and Recreation Services,2020.04,39432,P,Number ,0,Actual 
+R,Arts and Recreation Services,2020.05,39007,P,Number ,0,Actual 
+S,Other Services,2019.05,71800,P,Number ,0,Actual 
+S,Other Services,2019.06,72078,P,Number ,0,Actual 
+S,Other Services,2019.07,72182,P,Number ,0,Actual 
+S,Other Services,2019.08,72005,P,Number ,0,Actual 
+S,Other Services,2019.09,72778,P,Number ,0,Actual 
+S,Other Services,2019.1,72672,P,Number ,0,Actual 
+S,Other Services,2019.11,73553,P,Number ,0,Actual 
+S,Other Services,2019.12,73853,P,Number ,0,Actual 
+S,Other Services,2020.01,72007,P,Number ,0,Actual 
+S,Other Services,2020.02,73136,P,Number ,0,Actual 
+S,Other Services,2020.03,73980,P,Number ,0,Actual 
+S,Other Services,2020.04,71570,P,Number ,0,Actual 
+S,Other Services,2020.05,72545,P,Number ,0,Actual 

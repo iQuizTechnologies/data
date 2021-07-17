@@ -1,0 +1,443 @@
+Region,Period,Value,Status,Units,Magnitude,Series_title_1,Sex
+Northland Region,2019.05,34490,P,Number ,0,Actual ,Female
+Northland Region,2019.06,34400,P,Number ,0,Actual ,Female
+Northland Region,2019.07,34249,P,Number ,0,Actual ,Female
+Northland Region,2019.08,34459,P,Number ,0,Actual ,Female
+Northland Region,2019.09,34887,P,Number ,0,Actual ,Female
+Northland Region,2019.1,35019,P,Number ,0,Actual ,Female
+Northland Region,2019.11,35985,P,Number ,0,Actual ,Female
+Northland Region,2019.12,36516,P,Number ,0,Actual ,Female
+Northland Region,2020.01,35457,P,Number ,0,Actual ,Female
+Northland Region,2020.02,35541,P,Number ,0,Actual ,Female
+Northland Region,2020.03,35648,P,Number ,0,Actual ,Female
+Northland Region,2020.04,34601,P,Number ,0,Actual ,Female
+Northland Region,2020.05,34786,P,Number ,0,Actual ,Female
+Auckland Region,2019.05,352742,P,Number ,0,Actual ,Female
+Auckland Region,2019.06,353776,P,Number ,0,Actual ,Female
+Auckland Region,2019.07,356204,P,Number ,0,Actual ,Female
+Auckland Region,2019.08,357794,P,Number ,0,Actual ,Female
+Auckland Region,2019.09,359493,P,Number ,0,Actual ,Female
+Auckland Region,2019.1,361180,P,Number ,0,Actual ,Female
+Auckland Region,2019.11,368175,P,Number ,0,Actual ,Female
+Auckland Region,2019.12,369408,P,Number ,0,Actual ,Female
+Auckland Region,2020.01,356302,P,Number ,0,Actual ,Female
+Auckland Region,2020.02,361256,P,Number ,0,Actual ,Female
+Auckland Region,2020.03,363963,P,Number ,0,Actual ,Female
+Auckland Region,2020.04,358597,P,Number ,0,Actual ,Female
+Auckland Region,2020.05,362218,P,Number ,0,Actual ,Female
+Waikato Region,2019.05,93227,P,Number ,0,Actual ,Female
+Waikato Region,2019.06,98989,P,Number ,0,Actual ,Female
+Waikato Region,2019.07,99153,P,Number ,0,Actual ,Female
+Waikato Region,2019.08,99770,P,Number ,0,Actual ,Female
+Waikato Region,2019.09,100701,P,Number ,0,Actual ,Female
+Waikato Region,2019.1,101465,P,Number ,0,Actual ,Female
+Waikato Region,2019.11,103221,P,Number ,0,Actual ,Female
+Waikato Region,2019.12,104019,P,Number ,0,Actual ,Female
+Waikato Region,2020.01,100854,P,Number ,0,Actual ,Female
+Waikato Region,2020.02,102047,P,Number ,0,Actual ,Female
+Waikato Region,2020.03,101937,P,Number ,0,Actual ,Female
+Waikato Region,2020.04,99948,P,Number ,0,Actual ,Female
+Waikato Region,2020.05,100773,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2019.05,66033,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2019.06,65291,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2019.07,64830,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2019.08,64725,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2019.09,65066,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2019.1,65789,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2019.11,66985,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2019.12,67646,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2020.01,66034,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2020.02,65904,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2020.03,66778,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2020.04,65822,P,Number ,0,Actual ,Female
+Bay of Plenty Region,2020.05,66533,P,Number ,0,Actual ,Female
+Gisborne Region,2019.05,10608,P,Number ,0,Actual ,Female
+Gisborne Region,2019.06,10583,P,Number ,0,Actual ,Female
+Gisborne Region,2019.07,10531,P,Number ,0,Actual ,Female
+Gisborne Region,2019.08,10439,P,Number ,0,Actual ,Female
+Gisborne Region,2019.09,10409,P,Number ,0,Actual ,Female
+Gisborne Region,2019.1,10546,P,Number ,0,Actual ,Female
+Gisborne Region,2019.11,10820,P,Number ,0,Actual ,Female
+Gisborne Region,2019.12,11065,P,Number ,0,Actual ,Female
+Gisborne Region,2020.01,10791,P,Number ,0,Actual ,Female
+Gisborne Region,2020.02,10838,P,Number ,0,Actual ,Female
+Gisborne Region,2020.03,11059,P,Number ,0,Actual ,Female
+Gisborne Region,2020.04,10451,P,Number ,0,Actual ,Female
+Gisborne Region,2020.05,10571,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2019.05,36278,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2019.06,36034,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2019.07,35471,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2019.08,35352,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2019.09,35649,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2019.1,35577,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2019.11,36568,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2019.12,37596,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2020.01,36224,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2020.02,36877,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2020.03,37613,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2020.04,36362,P,Number ,0,Actual ,Female
+Hawke's Bay Region,2020.05,36411,P,Number ,0,Actual ,Female
+Taranaki Region,2019.05,24808,P,Number ,0,Actual ,Female
+Taranaki Region,2019.06,24829,P,Number ,0,Actual ,Female
+Taranaki Region,2019.07,24756,P,Number ,0,Actual ,Female
+Taranaki Region,2019.08,24935,P,Number ,0,Actual ,Female
+Taranaki Region,2019.09,25054,P,Number ,0,Actual ,Female
+Taranaki Region,2019.1,25050,P,Number ,0,Actual ,Female
+Taranaki Region,2019.11,25609,P,Number ,0,Actual ,Female
+Taranaki Region,2019.12,25805,P,Number ,0,Actual ,Female
+Taranaki Region,2020.01,25056,P,Number ,0,Actual ,Female
+Taranaki Region,2020.02,25458,P,Number ,0,Actual ,Female
+Taranaki Region,2020.03,25381,P,Number ,0,Actual ,Female
+Taranaki Region,2020.04,24789,P,Number ,0,Actual ,Female
+Taranaki Region,2020.05,24960,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2019.05,51929,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2019.06,52140,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2019.07,52245,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2019.08,52360,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2019.09,52838,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2019.1,53087,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2019.11,53932,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2019.12,54311,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2020.01,52561,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2020.02,53307,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2020.03,53255,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2020.04,52029,P,Number ,0,Actual ,Female
+Manawatu-Whanganui Region,2020.05,52734,P,Number ,0,Actual ,Female
+Wellington Region,2019.05,122020,P,Number ,0,Actual ,Female
+Wellington Region,2019.06,122845,P,Number ,0,Actual ,Female
+Wellington Region,2019.07,123024,P,Number ,0,Actual ,Female
+Wellington Region,2019.08,123088,P,Number ,0,Actual ,Female
+Wellington Region,2019.09,123845,P,Number ,0,Actual ,Female
+Wellington Region,2019.1,124375,P,Number ,0,Actual ,Female
+Wellington Region,2019.11,125781,P,Number ,0,Actual ,Female
+Wellington Region,2019.12,126268,P,Number ,0,Actual ,Female
+Wellington Region,2020.01,122254,P,Number ,0,Actual ,Female
+Wellington Region,2020.02,124134,P,Number ,0,Actual ,Female
+Wellington Region,2020.03,124983,P,Number ,0,Actual ,Female
+Wellington Region,2020.04,123057,P,Number ,0,Actual ,Female
+Wellington Region,2020.05,124012,P,Number ,0,Actual ,Female
+West Coast Region,2019.05,7826,P,Number ,0,Actual ,Female
+West Coast Region,2019.06,7791,P,Number ,0,Actual ,Female
+West Coast Region,2019.07,7763,P,Number ,0,Actual ,Female
+West Coast Region,2019.08,7832,P,Number ,0,Actual ,Female
+West Coast Region,2019.09,7935,P,Number ,0,Actual ,Female
+West Coast Region,2019.1,8071,P,Number ,0,Actual ,Female
+West Coast Region,2019.11,8240,P,Number ,0,Actual ,Female
+West Coast Region,2019.12,8391,P,Number ,0,Actual ,Female
+West Coast Region,2020.01,8121,P,Number ,0,Actual ,Female
+West Coast Region,2020.02,8221,P,Number ,0,Actual ,Female
+West Coast Region,2020.03,8236,P,Number ,0,Actual ,Female
+West Coast Region,2020.04,8035,P,Number ,0,Actual ,Female
+West Coast Region,2020.05,8059,P,Number ,0,Actual ,Female
+Canterbury Region,2019.05,145490,P,Number ,0,Actual ,Female
+Canterbury Region,2019.06,137305,P,Number ,0,Actual ,Female
+Canterbury Region,2019.07,137461,P,Number ,0,Actual ,Female
+Canterbury Region,2019.08,137879,P,Number ,0,Actual ,Female
+Canterbury Region,2019.09,139261,P,Number ,0,Actual ,Female
+Canterbury Region,2019.1,139728,P,Number ,0,Actual ,Female
+Canterbury Region,2019.11,142185,P,Number ,0,Actual ,Female
+Canterbury Region,2019.12,143268,P,Number ,0,Actual ,Female
+Canterbury Region,2020.01,137689,P,Number ,0,Actual ,Female
+Canterbury Region,2020.02,139912,P,Number ,0,Actual ,Female
+Canterbury Region,2020.03,140387,P,Number ,0,Actual ,Female
+Canterbury Region,2020.04,137785,P,Number ,0,Actual ,Female
+Canterbury Region,2020.05,138335,P,Number ,0,Actual ,Female
+Otago Region,2019.05,53779,P,Number ,0,Actual ,Female
+Otago Region,2019.06,53504,P,Number ,0,Actual ,Female
+Otago Region,2019.07,53689,P,Number ,0,Actual ,Female
+Otago Region,2019.08,54133,P,Number ,0,Actual ,Female
+Otago Region,2019.09,54560,P,Number ,0,Actual ,Female
+Otago Region,2019.1,54540,P,Number ,0,Actual ,Female
+Otago Region,2019.11,55769,P,Number ,0,Actual ,Female
+Otago Region,2019.12,56171,P,Number ,0,Actual ,Female
+Otago Region,2020.01,54413,P,Number ,0,Actual ,Female
+Otago Region,2020.02,55449,P,Number ,0,Actual ,Female
+Otago Region,2020.03,55295,P,Number ,0,Actual ,Female
+Otago Region,2020.04,53696,P,Number ,0,Actual ,Female
+Otago Region,2020.05,53806,P,Number ,0,Actual ,Female
+Southland Region,2019.05,22890,P,Number ,0,Actual ,Female
+Southland Region,2019.06,22405,P,Number ,0,Actual ,Female
+Southland Region,2019.07,21938,P,Number ,0,Actual ,Female
+Southland Region,2019.08,22211,P,Number ,0,Actual ,Female
+Southland Region,2019.09,22660,P,Number ,0,Actual ,Female
+Southland Region,2019.1,22769,P,Number ,0,Actual ,Female
+Southland Region,2019.11,23357,P,Number ,0,Actual ,Female
+Southland Region,2019.12,23747,P,Number ,0,Actual ,Female
+Southland Region,2020.01,23153,P,Number ,0,Actual ,Female
+Southland Region,2020.02,23534,P,Number ,0,Actual ,Female
+Southland Region,2020.03,23385,P,Number ,0,Actual ,Female
+Southland Region,2020.04,22606,P,Number ,0,Actual ,Female
+Southland Region,2020.05,22698,P,Number ,0,Actual ,Female
+Tasman Region,2019.05,11202,P,Number ,0,Actual ,Female
+Tasman Region,2019.06,11089,P,Number ,0,Actual ,Female
+Tasman Region,2019.07,11029,P,Number ,0,Actual ,Female
+Tasman Region,2019.08,11023,P,Number ,0,Actual ,Female
+Tasman Region,2019.09,11154,P,Number ,0,Actual ,Female
+Tasman Region,2019.1,11330,P,Number ,0,Actual ,Female
+Tasman Region,2019.11,11680,P,Number ,0,Actual ,Female
+Tasman Region,2019.12,11878,P,Number ,0,Actual ,Female
+Tasman Region,2020.01,11456,P,Number ,0,Actual ,Female
+Tasman Region,2020.02,11560,P,Number ,0,Actual ,Female
+Tasman Region,2020.03,11741,P,Number ,0,Actual ,Female
+Tasman Region,2020.04,11278,P,Number ,0,Actual ,Female
+Tasman Region,2020.05,11344,P,Number ,0,Actual ,Female
+Nelson Region,2019.05,9958,P,Number ,0,Actual ,Female
+Nelson Region,2019.06,9912,P,Number ,0,Actual ,Female
+Nelson Region,2019.07,9874,P,Number ,0,Actual ,Female
+Nelson Region,2019.08,9852,P,Number ,0,Actual ,Female
+Nelson Region,2019.09,9926,P,Number ,0,Actual ,Female
+Nelson Region,2019.1,9898,P,Number ,0,Actual ,Female
+Nelson Region,2019.11,10157,P,Number ,0,Actual ,Female
+Nelson Region,2019.12,10313,P,Number ,0,Actual ,Female
+Nelson Region,2020.01,9957,P,Number ,0,Actual ,Female
+Nelson Region,2020.02,10044,P,Number ,0,Actual ,Female
+Nelson Region,2020.03,10084,P,Number ,0,Actual ,Female
+Nelson Region,2020.04,9822,P,Number ,0,Actual ,Female
+Nelson Region,2020.05,9890,P,Number ,0,Actual ,Female
+Marlborough Region,2019.05,12317,P,Number ,0,Actual ,Female
+Marlborough Region,2019.06,12281,P,Number ,0,Actual ,Female
+Marlborough Region,2019.07,12213,P,Number ,0,Actual ,Female
+Marlborough Region,2019.08,12177,P,Number ,0,Actual ,Female
+Marlborough Region,2019.09,12332,P,Number ,0,Actual ,Female
+Marlborough Region,2019.1,12351,P,Number ,0,Actual ,Female
+Marlborough Region,2019.11,12759,P,Number ,0,Actual ,Female
+Marlborough Region,2019.12,12944,P,Number ,0,Actual ,Female
+Marlborough Region,2020.01,12575,P,Number ,0,Actual ,Female
+Marlborough Region,2020.02,12757,P,Number ,0,Actual ,Female
+Marlborough Region,2020.03,12894,P,Number ,0,Actual ,Female
+Marlborough Region,2020.04,12533,P,Number ,0,Actual ,Female
+Marlborough Region,2020.05,12446,P,Number ,0,Actual ,Female
+Total NZ,2019.05,1060195,P,Number ,0,Actual ,Female
+Total NZ,2019.06,1057460,P,Number ,0,Actual ,Female
+Total NZ,2019.07,1058518,P,Number ,0,Actual ,Female
+Total NZ,2019.08,1061972,P,Number ,0,Actual ,Female
+Total NZ,2019.09,1069595,P,Number ,0,Actual ,Female
+Total NZ,2019.1,1074645,P,Number ,0,Actual ,Female
+Total NZ,2019.11,1095267,P,Number ,0,Actual ,Female
+Total NZ,2019.12,1103292,P,Number ,0,Actual ,Female
+Total NZ,2020.01,1066680,P,Number ,0,Actual ,Female
+Total NZ,2020.02,1080622,P,Number ,0,Actual ,Female
+Total NZ,2020.03,1086565,P,Number ,0,Actual ,Female
+Total NZ,2020.04,1064995,P,Number ,0,Actual ,Female
+Total NZ,2020.05,1073212,P,Number ,0,Actual ,Female
+Northland Region,2019.05,32579,P,Number ,0,Actual ,Male
+Northland Region,2019.06,32273,P,Number ,0,Actual ,Male
+Northland Region,2019.07,32116,P,Number ,0,Actual ,Male
+Northland Region,2019.08,32038,P,Number ,0,Actual ,Male
+Northland Region,2019.09,32370,P,Number ,0,Actual ,Male
+Northland Region,2019.1,32617,P,Number ,0,Actual ,Male
+Northland Region,2019.11,33471,P,Number ,0,Actual ,Male
+Northland Region,2019.12,33725,P,Number ,0,Actual ,Male
+Northland Region,2020.01,32916,P,Number ,0,Actual ,Male
+Northland Region,2020.02,32899,P,Number ,0,Actual ,Male
+Northland Region,2020.03,33227,P,Number ,0,Actual ,Male
+Northland Region,2020.04,32508,P,Number ,0,Actual ,Male
+Northland Region,2020.05,32661,P,Number ,0,Actual ,Male
+Auckland Region,2019.05,368717,P,Number ,0,Actual ,Male
+Auckland Region,2019.06,369307,P,Number ,0,Actual ,Male
+Auckland Region,2019.07,373454,P,Number ,0,Actual ,Male
+Auckland Region,2019.08,373624,P,Number ,0,Actual ,Male
+Auckland Region,2019.09,375584,P,Number ,0,Actual ,Male
+Auckland Region,2019.1,377988,P,Number ,0,Actual ,Male
+Auckland Region,2019.11,383297,P,Number ,0,Actual ,Male
+Auckland Region,2019.12,384872,P,Number ,0,Actual ,Male
+Auckland Region,2020.01,376234,P,Number ,0,Actual ,Male
+Auckland Region,2020.02,378294,P,Number ,0,Actual ,Male
+Auckland Region,2020.03,381343,P,Number ,0,Actual ,Male
+Auckland Region,2020.04,378664,P,Number ,0,Actual ,Male
+Auckland Region,2020.05,382753,P,Number ,0,Actual ,Male
+Waikato Region,2019.05,101098,P,Number ,0,Actual ,Male
+Waikato Region,2019.06,102111,P,Number ,0,Actual ,Male
+Waikato Region,2019.07,102280,P,Number ,0,Actual ,Male
+Waikato Region,2019.08,102349,P,Number ,0,Actual ,Male
+Waikato Region,2019.09,103135,P,Number ,0,Actual ,Male
+Waikato Region,2019.1,104285,P,Number ,0,Actual ,Male
+Waikato Region,2019.11,105856,P,Number ,0,Actual ,Male
+Waikato Region,2019.12,106818,P,Number ,0,Actual ,Male
+Waikato Region,2020.01,105084,P,Number ,0,Actual ,Male
+Waikato Region,2020.02,105337,P,Number ,0,Actual ,Male
+Waikato Region,2020.03,105606,P,Number ,0,Actual ,Male
+Waikato Region,2020.04,103994,P,Number ,0,Actual ,Male
+Waikato Region,2020.05,105145,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2019.05,68147,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2019.06,66919,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2019.07,66510,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2019.08,66235,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2019.09,66350,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2019.1,66222,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2019.11,67760,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2019.12,68291,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2020.01,67222,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2020.02,66657,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2020.03,67908,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2020.04,67492,P,Number ,0,Actual ,Male
+Bay of Plenty Region,2020.05,68581,P,Number ,0,Actual ,Male
+Gisborne Region,2019.05,10624,P,Number ,0,Actual ,Male
+Gisborne Region,2019.06,10554,P,Number ,0,Actual ,Male
+Gisborne Region,2019.07,10448,P,Number ,0,Actual ,Male
+Gisborne Region,2019.08,10377,P,Number ,0,Actual ,Male
+Gisborne Region,2019.09,10335,P,Number ,0,Actual ,Male
+Gisborne Region,2019.1,10571,P,Number ,0,Actual ,Male
+Gisborne Region,2019.11,10776,P,Number ,0,Actual ,Male
+Gisborne Region,2019.12,11026,P,Number ,0,Actual ,Male
+Gisborne Region,2020.01,10889,P,Number ,0,Actual ,Male
+Gisborne Region,2020.02,10937,P,Number ,0,Actual ,Male
+Gisborne Region,2020.03,10990,P,Number ,0,Actual ,Male
+Gisborne Region,2020.04,10522,P,Number ,0,Actual ,Male
+Gisborne Region,2020.05,10628,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2019.05,39061,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2019.06,37392,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2019.07,37076,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2019.08,36651,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2019.09,36285,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2019.1,36276,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2019.11,38334,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2019.12,40205,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2020.01,39432,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2020.02,39632,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2020.03,41006,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2020.04,40019,P,Number ,0,Actual ,Male
+Hawke's Bay Region,2020.05,40071,P,Number ,0,Actual ,Male
+Taranaki Region,2019.05,26323,P,Number ,0,Actual ,Male
+Taranaki Region,2019.06,26066,P,Number ,0,Actual ,Male
+Taranaki Region,2019.07,26004,P,Number ,0,Actual ,Male
+Taranaki Region,2019.08,25908,P,Number ,0,Actual ,Male
+Taranaki Region,2019.09,26041,P,Number ,0,Actual ,Male
+Taranaki Region,2019.1,26155,P,Number ,0,Actual ,Male
+Taranaki Region,2019.11,26825,P,Number ,0,Actual ,Male
+Taranaki Region,2019.12,26979,P,Number ,0,Actual ,Male
+Taranaki Region,2020.01,26548,P,Number ,0,Actual ,Male
+Taranaki Region,2020.02,26675,P,Number ,0,Actual ,Male
+Taranaki Region,2020.03,26697,P,Number ,0,Actual ,Male
+Taranaki Region,2020.04,26266,P,Number ,0,Actual ,Male
+Taranaki Region,2020.05,26365,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2019.05,52340,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2019.06,52228,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2019.07,52546,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2019.08,52155,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2019.09,52512,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2019.1,53044,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2019.11,53907,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2019.12,54469,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2020.01,53552,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2020.02,53740,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2020.03,53616,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2020.04,52664,P,Number ,0,Actual ,Male
+Manawatu-Whanganui Region,2020.05,53212,P,Number ,0,Actual ,Male
+Wellington Region,2019.05,118241,P,Number ,0,Actual ,Male
+Wellington Region,2019.06,119185,P,Number ,0,Actual ,Male
+Wellington Region,2019.07,119606,P,Number ,0,Actual ,Male
+Wellington Region,2019.08,119425,P,Number ,0,Actual ,Male
+Wellington Region,2019.09,119910,P,Number ,0,Actual ,Male
+Wellington Region,2019.1,120535,P,Number ,0,Actual ,Male
+Wellington Region,2019.11,121670,P,Number ,0,Actual ,Male
+Wellington Region,2019.12,122259,P,Number ,0,Actual ,Male
+Wellington Region,2020.01,120179,P,Number ,0,Actual ,Male
+Wellington Region,2020.02,120878,P,Number ,0,Actual ,Male
+Wellington Region,2020.03,121349,P,Number ,0,Actual ,Male
+Wellington Region,2020.04,119835,P,Number ,0,Actual ,Male
+Wellington Region,2020.05,121001,P,Number ,0,Actual ,Male
+West Coast Region,2019.05,7911,P,Number ,0,Actual ,Male
+West Coast Region,2019.06,7852,P,Number ,0,Actual ,Male
+West Coast Region,2019.07,7814,P,Number ,0,Actual ,Male
+West Coast Region,2019.08,7917,P,Number ,0,Actual ,Male
+West Coast Region,2019.09,8007,P,Number ,0,Actual ,Male
+West Coast Region,2019.1,8111,P,Number ,0,Actual ,Male
+West Coast Region,2019.11,8276,P,Number ,0,Actual ,Male
+West Coast Region,2019.12,8388,P,Number ,0,Actual ,Male
+West Coast Region,2020.01,8338,P,Number ,0,Actual ,Male
+West Coast Region,2020.02,8303,P,Number ,0,Actual ,Male
+West Coast Region,2020.03,8343,P,Number ,0,Actual ,Male
+West Coast Region,2020.04,8181,P,Number ,0,Actual ,Male
+West Coast Region,2020.05,8205,P,Number ,0,Actual ,Male
+Canterbury Region,2019.05,145624,P,Number ,0,Actual ,Male
+Canterbury Region,2019.06,144663,P,Number ,0,Actual ,Male
+Canterbury Region,2019.07,145442,P,Number ,0,Actual ,Male
+Canterbury Region,2019.08,145297,P,Number ,0,Actual ,Male
+Canterbury Region,2019.09,146399,P,Number ,0,Actual ,Male
+Canterbury Region,2019.1,147629,P,Number ,0,Actual ,Male
+Canterbury Region,2019.11,149567,P,Number ,0,Actual ,Male
+Canterbury Region,2019.12,151006,P,Number ,0,Actual ,Male
+Canterbury Region,2020.01,148086,P,Number ,0,Actual ,Male
+Canterbury Region,2020.02,148276,P,Number ,0,Actual ,Male
+Canterbury Region,2020.03,148673,P,Number ,0,Actual ,Male
+Canterbury Region,2020.04,146491,P,Number ,0,Actual ,Male
+Canterbury Region,2020.05,147462,P,Number ,0,Actual ,Male
+Otago Region,2019.05,53534,P,Number ,0,Actual ,Male
+Otago Region,2019.06,53331,P,Number ,0,Actual ,Male
+Otago Region,2019.07,53329,P,Number ,0,Actual ,Male
+Otago Region,2019.08,53537,P,Number ,0,Actual ,Male
+Otago Region,2019.09,54049,P,Number ,0,Actual ,Male
+Otago Region,2019.1,54257,P,Number ,0,Actual ,Male
+Otago Region,2019.11,55837,P,Number ,0,Actual ,Male
+Otago Region,2019.12,56345,P,Number ,0,Actual ,Male
+Otago Region,2020.01,55677,P,Number ,0,Actual ,Male
+Otago Region,2020.02,55892,P,Number ,0,Actual ,Male
+Otago Region,2020.03,55974,P,Number ,0,Actual ,Male
+Otago Region,2020.04,54734,P,Number ,0,Actual ,Male
+Otago Region,2020.05,55162,P,Number ,0,Actual ,Male
+Southland Region,2019.05,24106,P,Number ,0,Actual ,Male
+Southland Region,2019.06,23349,P,Number ,0,Actual ,Male
+Southland Region,2019.07,22714,P,Number ,0,Actual ,Male
+Southland Region,2019.08,22929,P,Number ,0,Actual ,Male
+Southland Region,2019.09,23233,P,Number ,0,Actual ,Male
+Southland Region,2019.1,23604,P,Number ,0,Actual ,Male
+Southland Region,2019.11,24206,P,Number ,0,Actual ,Male
+Southland Region,2019.12,24845,P,Number ,0,Actual ,Male
+Southland Region,2020.01,24846,P,Number ,0,Actual ,Male
+Southland Region,2020.02,24878,P,Number ,0,Actual ,Male
+Southland Region,2020.03,24677,P,Number ,0,Actual ,Male
+Southland Region,2020.04,23955,P,Number ,0,Actual ,Male
+Southland Region,2020.05,24079,P,Number ,0,Actual ,Male
+Tasman Region,2019.05,11799,P,Number ,0,Actual ,Male
+Tasman Region,2019.06,11428,P,Number ,0,Actual ,Male
+Tasman Region,2019.07,11488,P,Number ,0,Actual ,Male
+Tasman Region,2019.08,11385,P,Number ,0,Actual ,Male
+Tasman Region,2019.09,11194,P,Number ,0,Actual ,Male
+Tasman Region,2019.1,11062,P,Number ,0,Actual ,Male
+Tasman Region,2019.11,11628,P,Number ,0,Actual ,Male
+Tasman Region,2019.12,12011,P,Number ,0,Actual ,Male
+Tasman Region,2020.01,11860,P,Number ,0,Actual ,Male
+Tasman Region,2020.02,11923,P,Number ,0,Actual ,Male
+Tasman Region,2020.03,12493,P,Number ,0,Actual ,Male
+Tasman Region,2020.04,12152,P,Number ,0,Actual ,Male
+Tasman Region,2020.05,12261,P,Number ,0,Actual ,Male
+Nelson Region,2019.05,10102,P,Number ,0,Actual ,Male
+Nelson Region,2019.06,9903,P,Number ,0,Actual ,Male
+Nelson Region,2019.07,10003,P,Number ,0,Actual ,Male
+Nelson Region,2019.08,9970,P,Number ,0,Actual ,Male
+Nelson Region,2019.09,9984,P,Number ,0,Actual ,Male
+Nelson Region,2019.1,9883,P,Number ,0,Actual ,Male
+Nelson Region,2019.11,10300,P,Number ,0,Actual ,Male
+Nelson Region,2019.12,10349,P,Number ,0,Actual ,Male
+Nelson Region,2020.01,10167,P,Number ,0,Actual ,Male
+Nelson Region,2020.02,10160,P,Number ,0,Actual ,Male
+Nelson Region,2020.03,10248,P,Number ,0,Actual ,Male
+Nelson Region,2020.04,10147,P,Number ,0,Actual ,Male
+Nelson Region,2020.05,10187,P,Number ,0,Actual ,Male
+Marlborough Region,2019.05,13465,P,Number ,0,Actual ,Male
+Marlborough Region,2019.06,13425,P,Number ,0,Actual ,Male
+Marlborough Region,2019.07,13390,P,Number ,0,Actual ,Male
+Marlborough Region,2019.08,13220,P,Number ,0,Actual ,Male
+Marlborough Region,2019.09,13120,P,Number ,0,Actual ,Male
+Marlborough Region,2019.1,12770,P,Number ,0,Actual ,Male
+Marlborough Region,2019.11,13684,P,Number ,0,Actual ,Male
+Marlborough Region,2019.12,13865,P,Number ,0,Actual ,Male
+Marlborough Region,2020.01,13652,P,Number ,0,Actual ,Male
+Marlborough Region,2020.02,13568,P,Number ,0,Actual ,Male
+Marlborough Region,2020.03,14146,P,Number ,0,Actual ,Male
+Marlborough Region,2020.04,13915,P,Number ,0,Actual ,Male
+Marlborough Region,2020.05,13852,P,Number ,0,Actual ,Male
+Total NZ,2019.05,"1,089,043",P,Number ,0,Actual ,Male
+Total NZ,2019.06,"1,085,074",P,Number ,0,Actual ,Male
+Total NZ,2019.07,"1,089,073",P,Number ,0,Actual ,Male
+Total NZ,2019.08,"1,087,752",P,Number ,0,Actual ,Male
+Total NZ,2019.09,"1,093,166",P,Number ,0,Actual ,Male
+Total NZ,2019.1,"1,099,675",P,Number ,0,Actual ,Male
+Total NZ,2019.11,"1,120,312",P,Number ,0,Actual ,Male
+Total NZ,2019.12,"1,130,264",P,Number ,0,Actual ,Male
+Total NZ,2020.01,"1,109,389",P,Number ,0,Actual ,Male
+Total NZ,2020.02,"1,112,896",P,Number ,0,Actual ,Male
+Total NZ,2020.03,"1,121,020",P,Number ,0,Actual ,Male
+Total NZ,2020.04,"1,105,989",P,Number ,0,Actual ,Male
+Total NZ,2020.05,"1,116,145",P,Number ,0,Actual ,Male
